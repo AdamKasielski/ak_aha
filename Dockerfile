@@ -1,6 +1,6 @@
 # parameters
 ARG REPO_NAME="<ak_aha>"
-ARG DESCRIPTION="<aha>"
+ARG DESCRIPTION="<moje repo aha ak>"
 ARG MAINTAINER="<AdamKasielski> (<adam.kasielski@gmail.com>)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 ARG ICON="cube"
