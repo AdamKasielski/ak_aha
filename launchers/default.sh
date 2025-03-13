@@ -13,7 +13,7 @@ dt-launchfile-init
 # NOTE: Use `dt-exec COMMAND` to run the main process (blocking process)
 
 # launching app
-dt-exec python3 -m "my_package.__init__"
+dt-exec python3 -m "paczuszka.__init__"
 
 
 # ----------------------------------------------------------------------------
